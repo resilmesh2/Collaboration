@@ -1,3 +1,6 @@
 [submodule "Service-Mesh"]
 	path = Service-Mesh
 	url = https://github.com/resilmesh2/Service-Mesh.git
+[submodule "Resource-Orchestrator"]
+	path = Resource-Orchestrator
+	url = https://github.com/resilmesh2/Resource-Orchestrator.git
